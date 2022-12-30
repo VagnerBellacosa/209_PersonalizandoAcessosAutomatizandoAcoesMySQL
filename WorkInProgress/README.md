@@ -34,7 +34,9 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Personalizando Acessos e Automatizando ações no MySQL - parte 1](https://web.dio.me/lab/personalizando-acessos-e-automatizando-acoes-no-mysql/learning/62eaff59-492c-456e-9479-33f9f252cd34)[Personalizando Acessos e Automatizando ações no MySQL - Parte 2](https://web.dio.me/lab/personalizando-acessos-e-automatizando-acoes-no-mysql/learning/593522c7-e2a2-4fbd-b9da-e5f7d42de408)[Entendendo o desafio](https://web.dio.me/lab/personalizando-acessos-e-automatizando-acoes-no-mysql/learning/5fe40d04-7d5e-4854-b551-61d06cac7519)
+- [Personalizando Acessos e Automatizando ações no MySQL - parte 1](https://web.dio.me/lab/personalizando-acessos-e-automatizando-acoes-no-mysql/learning/62eaff59-492c-456e-9479-33f9f252cd34)
+- [Personalizando Acessos e Automatizando ações no MySQL - Parte 2](https://web.dio.me/lab/personalizando-acessos-e-automatizando-acoes-no-mysql/learning/593522c7-e2a2-4fbd-b9da-e5f7d42de408)
+- [Entendendo o desafio](https://web.dio.me/lab/personalizando-acessos-e-automatizando-acoes-no-mysql/learning/5fe40d04-7d5e-4854-b551-61d06cac7519)
 
 
 
